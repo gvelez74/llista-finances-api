@@ -1,0 +1,8 @@
+{
+  "name": "llista-finances-api",
+  "version": "1.0.0",
+  "description": "API de pressupostos per a Llista.cat — Accent Obert",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  }
+}
